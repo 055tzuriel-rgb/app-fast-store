@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store>
-  <application id="ניסוי">
-    <name>ניסוי</name>
-    <version>1.0.0</version>
-    <description></description>
-    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/ניסוי-1.0.0.apk</apk_url>
-    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/ניסוי.png</icon_url>
-  </application>
   <application id="צ">
     <name>צ</name>
     <version>1.0.0</version>
