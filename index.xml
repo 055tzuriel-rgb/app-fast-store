@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store>
-  <application id="תפילון">
-    <name>תפילון</name>
-    <version>1.0.0</version>
-    <description></description>
-    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/תפילון-1.0.0.apk</apk_url>
-    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/תפילון.png</icon_url>
-  </application>
   <application id="מנהל.קבצים.+">
     <name>מנהל קבצים +</name>
     <version>1.0.0</version>
     <description>מנהל קבצים כשר</description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/מנהל.קבצים.+-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/מנהל.קבצים.+.png</icon_url>
+  </application>
+  <application id="תפילון">
+    <name>תפילון</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/תפילון-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/תפילון.png</icon_url>
   </application>
 </store>
