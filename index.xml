@@ -14,11 +14,4 @@
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/תפילון-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/תפילון.png</icon_url>
   </application>
-  <application id="">
-    <name>הופאון רב-פס: אוטובוסים ורכבות</name>
-    <version>1.0.0</version>
-    <description>רב-פס&quot; היא האפליקציה הרשמית והנוחה לתשלום, תיקוף וטעינת נסיעות בתחבורה הציבורית בישראל ישירות מהנייד.</description>
-    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/-1.0.0.apk</apk_url>
-    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/.png</icon_url>
-  </application>
 </store>
