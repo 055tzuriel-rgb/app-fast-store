@@ -14,4 +14,11 @@
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/תפילון-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/תפילון.png</icon_url>
   </application>
+  <application id="app_1780928892273">
+    <name>כושר טיוב</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1780928892273-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1780928892273.png</icon_url>
+  </application>
 </store>
