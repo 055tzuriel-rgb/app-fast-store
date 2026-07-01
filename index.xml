@@ -6,7 +6,8 @@
     <description>מנהל קבצים כשר</description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/מנהל.קבצים.+-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/מנהל.קבצים.+.png</icon_url>
-  </application>
+      <force_update>true</force_update>
+</application>
   <application id="תפילון">
     <name>תפילון</name>
     <version>1.0.0</version>
