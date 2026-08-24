@@ -6,15 +6,14 @@
     <description>מנהל קבצים כשר</description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/מנהל.קבצים.+-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/מנהל.קבצים.+.png</icon_url>
-        <force_update>true</force_update>
-</application>
+  </application>
   <application id="תפילון">
     <name>תפילון</name>
     <version>1.0.0</version>
     <description></description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/תפילון-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/תפילון.png</icon_url>
-</application>
+  </application>
   <application id="app_1780928892273">
     <name>כושר טיוב</name>
     <version>1.0.0</version>
@@ -28,5 +27,12 @@
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/db63dcd8d_bit-patched-612.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1781080475617.png</icon_url>
+  </application>
+  <application id="app_1787562523541">
+    <name>ווצאפ</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/57fd298ec_whatsapp-messenger-2-26-33-72.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787562523541.png</icon_url>
   </application>
 </store>
