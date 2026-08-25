@@ -35,4 +35,11 @@
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/57fd298ec_whatsapp-messenger-2-26-33-72.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787562523541.png</icon_url>
   </application>
+  <application id="app_1787663065635">
+    <name>וויז</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/889dfa0af_waze-5-21-234-460.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787663065635.png</icon_url>
+  </application>
 </store>
