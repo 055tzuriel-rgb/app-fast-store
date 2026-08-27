@@ -49,4 +49,11 @@
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/518d59ed7_Google_Maps_263404965633971_1787351196_latestmodapkscom.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787827301611.png</icon_url>
   </application>
+  <application id="app_1787827831614">
+    <name>גוגל צ&apos;אט</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1787827831614-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787827831614.png</icon_url>
+  </application>
 </store>
