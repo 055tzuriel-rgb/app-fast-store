@@ -70,4 +70,11 @@
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1788375130536-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1788375130536.png</icon_url>
   </application>
+  <application id="app_1788507904691">
+    <name>רב קו אונליין</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1788507904691-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1788507904691.png</icon_url>
+  </application>
 </store>
