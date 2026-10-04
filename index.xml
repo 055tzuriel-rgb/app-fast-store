@@ -56,4 +56,11 @@
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/b66b808f3_LinktoWindows_1260911160-beta_apkcombocom.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791135909866.png</icon_url>
   </application>
+  <application id="app_1791153387647">
+    <name>בנק דיסקונט</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/5ace2d769_comideomobilediscount.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791153387647.png</icon_url>
+  </application>
 </store>
