@@ -70,4 +70,11 @@
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/9ade5046e_combnhppaymentspaymentsapp.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791153549103.png</icon_url>
   </application>
+  <application id="app_1791153701216">
+    <name>פייבוקס</name>
+    <version>1.0.0</version>
+    <description>ארנק דיגיטלי</description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/270880743_compayboxapp.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791153701216.png</icon_url>
+  </application>
 </store>
