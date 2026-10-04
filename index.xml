@@ -71,4 +71,11 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1788507996309.png</icon_url>
     <updated>true</updated>
   </application>
+  <application id="app_1791135909866">
+    <name>חיבור בין המחשב לטלפון</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/b66b808f3_LinktoWindows_1260911160-beta_apkcombocom.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791135909866.png</icon_url>
+  </application>
 </store>
