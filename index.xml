@@ -92,4 +92,11 @@
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1791195164859-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791195164859.png</icon_url>
   </application>
+  <application id="app_1791195392258">
+    <name>זינג -מוזיקה יהודית</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1791195392258-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791195392258.png</icon_url>
+  </application>
 </store>
