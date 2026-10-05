@@ -77,4 +77,11 @@
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/270880743_compayboxapp.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791153701216.png</icon_url>
   </application>
+  <application id="app_1791185648536">
+    <name>נגן שירים כשר</name>
+    <version>1.0.0</version>
+    <description>נגן עם שירים כשרים...</description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/5df3be3ec_fmjewishmusicapplication.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791185648536.png</icon_url>
+  </application>
 </store>
