@@ -91,4 +91,11 @@
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1791185773552-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791185773552.png</icon_url>
   </application>
+  <application id="app_1791186834954">
+    <name>נשמה</name>
+    <version>1.0.0</version>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1791186834954-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791186834954.png</icon_url>
+  </application>
 </store>
