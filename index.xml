@@ -88,7 +88,8 @@
     <name>חיבור הטלפון למחשב</name>
     <version>1.0.0</version>
     <description>הטלפון הופך לעכבר מקלדת או אפילו שליטה בטאצ&apos; על מסך המחשב המוצג בטלפון.</description>
-    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/91f8dc753_PhoneTouch.bin</apk_url>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/f06420a3c_app_1792727769528-100-1792757452872.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1792727769528.png</icon_url>
+    <updated>true</updated>
   </application>
 </store>
