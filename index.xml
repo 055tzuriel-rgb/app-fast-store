@@ -1,87 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <store>
+<categories>
+  <name>כללי</name>
+  <name>מוצרי גוגל</name>
+</categories>
   <application id="מנהל.קבצים.+">
     <name>מנהל קבצים +</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description>מנהל קבצים כשר</description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/מנהל.קבצים.+-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/מנהל.קבצים.+.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="תפילון">
     <name>תפילון</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/תפילון-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/תפילון.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1780928892273">
     <name>כושר טיוב</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1780928892273-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1780928892273.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1787562523541">
     <name>ווצאפ</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/86d741cc6_app_1787562523541-100-1793903416685.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787562523541.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1787663065635">
     <name>וויז</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/889dfa0af_waze-5-21-234-460.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787663065635.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1787827301611">
     <name>גוגל מפות</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/518d59ed7_Google_Maps_263404965633971_1787351196_latestmodapkscom.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787827301611.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1787827831614">
     <name>גוגל צ&apos;אט</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1787827831614-1.0.0-1793901791961.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1787827831614.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1791135909866">
     <name>חיבור בין המחשב לטלפון</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/b66b808f3_LinktoWindows_1260911160-beta_apkcombocom.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791135909866.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1791153387647">
     <name>בנק דיסקונט</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/0eb9bd8e1_comideomobilediscount.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791153387647.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1791193648611">
     <name>פייבוקס</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/5df43119e_compayboxapp.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791193648611.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1791195392258">
     <name>זינג -מוזיקה יהודית</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description></description>
     <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1791195392258-1.0.0.apk</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791195392258.png</icon_url>
+    <updated>false</updated>
   </application>
   <application id="app_1792727769528">
     <name>חיבור הטלפון למחשב</name>
     <version>1.0.0</version>
+    <category>כללי</category>
     <description>הטלפון הופך לעכבר מקלדת או אפילו שליטה בטאצ&apos; על מסך המחשב המוצג בטלפון.</description>
     <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/f06420a3c_app_1792727769528-100-1792757452872.bin</apk_url>
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1792727769528.png</icon_url>
+    <updated>false</updated>
   </application>
 </store>
