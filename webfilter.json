@@ -1,8 +1,36 @@
 {
-  "version": 3,
+  "version": 4,
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
-    "מנהל.קבצים.+"
+    "com.payboxapp",
+    "il.banks.hub"
   ],
-  "allow": []
+  "allow": [
+    "payboxapp.com",
+    "res.cloudinary.com",
+    "cal-online.co.il",
+    "hopon.co.il",
+    "busnearby.co.il",
+    "greenlend.co.il",
+    "bankleumi.co.il",
+    "bankhapoalim.co.il",
+    "telebank.co.il",
+    "discountbank.co.il",
+    "mercantile.co.il",
+    "mizrahi-tefahot.co.il",
+    "fibi.co.il",
+    "pagi.co.il",
+    "bank-yahav.co.il",
+    "bankjerusalem.co.il",
+    "bankmassad.co.il",
+    "onezerobank.com",
+    "isracard.co.il",
+    "max.co.il",
+    "whatsapp.com",
+    "whatsapp.net",
+    "googleapis.com",
+    "gstatic.com",
+    "firebaseio.com",
+    "firebaseinstallations.googleapis.com"
+  ]
 }
