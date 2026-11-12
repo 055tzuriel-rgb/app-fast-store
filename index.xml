@@ -135,4 +135,13 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1791135909866.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="app_1794508612178">
+    <name>בנקים</name>
+    <version>1.0.0</version>
+    <category>כללי</category>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1794508612178-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794508612178.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
