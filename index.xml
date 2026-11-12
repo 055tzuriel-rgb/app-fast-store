@@ -117,4 +117,13 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/com.google.android.apps.automotive.templates.host.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="app_1794505740569">
+    <name>ווצאפ ווב כשר</name>
+    <version>1.0.0</version>
+    <category>כללי</category>
+    <description>גרסה כשרה של וואטסאפ שמתחברת לחשבון שכבר יש לך. מסנכרנים פעם אחת מול הטלפון הקיים (כמו וואטסאפ-ווב), ומשם זה עובד רגיל — הודעות, שיחות קבוצות והתראות, הכל במקום. ההבדל: אין תמונות פרופיל, אין סטטוסים, אין GIF-ים ואין גלישה החוצה דרך קישורים. אפשר להעלות סטטוס משלך ולנהל אותו, אבל לא לצפות בשל אחרים. בזכות זה שהכל רץ בתוך מעטפת סגורה אחת, זו דרך הרבה יותר הרמטית ושמורה — אין פתח צדדי שדרכו נכנסת תמונה או תוכן שלא רוצים.</description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1794505740569-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794505740569.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
