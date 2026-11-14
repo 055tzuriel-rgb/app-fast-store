@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794680011,
-  "updated_at": "2026-11-14T18:13:31Z",
+  "version": 1794680928,
+  "updated_at": "2026-11-14T18:28:48Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -307,6 +307,7 @@
         "onelink.me",
         "pages.dev",
         "panel.dev",
+        "payboxapp.com",
         "platter-app.dev",
         "r2.dev",
         "replit.dev",
@@ -1872,7 +1873,6 @@
         "parasite.jp",
         "parenleft.sc",
         "parenright.sc",
-        "payboxapp.com",
         "paynow.cx",
         "pb.leg.br",
         "pbme.co",
@@ -2853,7 +2853,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-14T18:13:29Z"
+      "updated_at": "2026-11-14T18:28:45Z"
     },
     "il.banks.hub": {
       "label": "",
@@ -2922,9 +2922,8 @@
   },
   "blur": {
     "com.payboxapp": {
-      "mode": "strict",
-      "padding": 20
+      "mode": "normal"
     }
   },
-  "sig": "rpVl+BuC3lP/YkJQ6zXGar/P6p2XOmqmQtVLRhe5Qe8WtnvRlCFI4pOTnTtTP8Xk4oFy9F/a2aZnU4iVcW3VrQ=="
+  "sig": "ogOYqLZpsm1PARXoDPQm+JzgauxSIOwQ4TFlYs818KAhI+bSpuA/ioX8wLdHoAShxxsEbv0MjC8CzaEdq5RAxg=="
 }
