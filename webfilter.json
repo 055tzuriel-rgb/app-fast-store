@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794680928,
-  "updated_at": "2026-11-14T18:28:48Z",
+  "version": 1794687612,
+  "updated_at": "2026-11-14T20:20:12Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -2853,7 +2853,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-14T18:28:45Z"
+      "updated_at": "2026-11-14T20:20:11Z"
     },
     "il.banks.hub": {
       "label": "",
@@ -2920,10 +2920,6 @@
       "updated_at": ""
     }
   },
-  "blur": {
-    "com.payboxapp": {
-      "mode": "normal"
-    }
-  },
-  "sig": "ogOYqLZpsm1PARXoDPQm+JzgauxSIOwQ4TFlYs818KAhI+bSpuA/ioX8wLdHoAShxxsEbv0MjC8CzaEdq5RAxg=="
+  "blur": {},
+  "sig": "w++oIKUcD65/th0izxJ5Swbg1cT7N/gFqOaOwiZrcaUjpHeZ6C1SAZXDSuXBElUiTMPksntXr+zmH7Tx39u37w=="
 }
