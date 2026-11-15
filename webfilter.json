@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794719203,
-  "updated_at": "2026-11-15T05:06:43Z",
+  "version": 1794719762,
+  "updated_at": "2026-11-15T05:16:02Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -2853,7 +2853,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-15T05:06:39Z"
+      "updated_at": "2026-11-15T05:15:59Z"
     },
     "il.banks.hub": {
       "label": "",
@@ -2924,16 +2924,16 @@
   "screens": {
     "com.payboxapp": [
       {
-        "id": "dfbc7aea",
-        "activity": "com.cobox.core.ui.activities.MainActivity",
+        "id": "fffe6a17",
+        "activity": "com.cobox.core.ui.fragments.gifts.vouchers.VoucherCategoriesLobbyActivity",
         "match": {
           "ids": [],
           "texts": []
         },
         "action": "block",
-        "label": "MainActivity"
+        "label": "VoucherCategoriesLobbyActivity"
       }
     ]
   },
-  "sig": "WG7i477/FpbAPzvvH7BdSLdR4h1kYjXVWapAlwNRn0uWkJVBfcc8CNkb452qeWtEiNhRTF/00X9HDHNJtyJatw=="
+  "sig": "wehFzMB+HdQu94MLK9zsfR8OZUy9E+PrBoSS5H1YQ2xPtDrF4i78p9/TPRni7jHmO7zdjLJsTGsN8PHLEaVkNQ=="
 }
