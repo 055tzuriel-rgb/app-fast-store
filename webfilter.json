@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794724499,
-  "updated_at": "2026-11-15T06:34:59Z",
+  "version": 1794724603,
+  "updated_at": "2026-11-15T06:36:43Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -31,6 +31,7 @@
     "greenlend.co.il",
     "hopon.co.il",
     "isracard.co.il",
+    "leumi.co.il",
     "maps.googleapis.com",
     "max.co.il",
     "mercantile.co.il",
@@ -2858,8 +2859,8 @@
       "updated_at": "2026-11-15T06:34:56Z"
     },
     "il.banks.hub": {
-      "label": "",
-      "catalog_id": "",
+      "label": "בנקים",
+      "catalog_id": "app_1794508612178",
       "allow": [
         "bank-yahav.co.il",
         "bankhapoalim.co.il",
@@ -2872,11 +2873,10 @@
         "fibi.co.il",
         "firebaseinstallations.googleapis.com",
         "firebaseio.com",
-        "googleapis.com",
         "greenlend.co.il",
-        "gstatic.com",
         "hopon.co.il",
         "isracard.co.il",
+        "leumi.co.il",
         "max.co.il",
         "mercantile.co.il",
         "mizrahi-tefahot.co.il",
@@ -2888,8 +2888,14 @@
         "whatsapp.com",
         "whatsapp.net"
       ],
-      "block": [],
-      "doubt": [],
+      "block": [
+        "googleapis.com",
+        "gstatic.com"
+      ],
+      "doubt": [
+        "bankhapoalim.biz",
+        "bitpay.co.il"
+      ],
       "manual": [
         "bank-yahav.co.il",
         "bankhapoalim.co.il",
@@ -2918,8 +2924,8 @@
         "whatsapp.com",
         "whatsapp.net"
       ],
-      "scanned_version": "",
-      "updated_at": ""
+      "scanned_version": "2.0",
+      "updated_at": "2026-11-15T06:36:40Z"
     }
   },
   "blur": {},
@@ -2937,5 +2943,5 @@
       }
     ]
   },
-  "sig": "LwSWKY8nwHgNTtimwRbHd2lnlNV0Qg5bIT/nbn0EcbgYlLcDReTdcG/wRf20pDY3HIL/XiP9WheZ9fWY+YUbsQ=="
+  "sig": "XsD1E55y+Xm/aePDiiVlJq0YyWA02hR9G596QQEpkGGmd/xZ913Z9S9IXBFJrSjfUs3j7wl2Tsdc9WFSqr9MTQ=="
 }
