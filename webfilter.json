@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794719762,
-  "updated_at": "2026-11-15T05:16:02Z",
+  "version": 1794724499,
+  "updated_at": "2026-11-15T06:34:59Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -25,6 +25,7 @@
     "firebaseinstallations.googleapis.com",
     "firebaseio.com",
     "firebaseremoteconfig.googleapis.com",
+    "firestore.googleapis.com",
     "fonts.googleapis.com",
     "fonts.gstatic.com",
     "greenlend.co.il",
@@ -222,6 +223,7 @@
         "fibi.co.il",
         "firebaseinstallations.googleapis.com",
         "firebaseio.com",
+        "firestore.googleapis.com",
         "greenlend.co.il",
         "hopon.co.il",
         "isracard.co.il",
@@ -1091,7 +1093,6 @@
         "fin.ci",
         "firebaseappcheck.googleapis.com",
         "firebaseremoteconfigrealtime.googleapis.com",
-        "firestore.googleapis.com",
         "firewall-gateway.com",
         "firewall-gateway.de",
         "firewall-gateway.net",
@@ -2836,6 +2837,7 @@
         "fibi.co.il",
         "firebaseinstallations.googleapis.com",
         "firebaseio.com",
+        "firestore.googleapis.com",
         "googleapis.com",
         "greenlend.co.il",
         "gstatic.com",
@@ -2853,7 +2855,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-15T05:15:59Z"
+      "updated_at": "2026-11-15T06:34:56Z"
     },
     "il.banks.hub": {
       "label": "",
@@ -2935,5 +2937,5 @@
       }
     ]
   },
-  "sig": "wehFzMB+HdQu94MLK9zsfR8OZUy9E+PrBoSS5H1YQ2xPtDrF4i78p9/TPRni7jHmO7zdjLJsTGsN8PHLEaVkNQ=="
+  "sig": "LwSWKY8nwHgNTtimwRbHd2lnlNV0Qg5bIT/nbn0EcbgYlLcDReTdcG/wRf20pDY3HIL/XiP9WheZ9fWY+YUbsQ=="
 }
