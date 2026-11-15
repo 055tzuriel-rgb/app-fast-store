@@ -1,12 +1,11 @@
 {
   "schema": 2,
-  "version": 1794724603,
-  "updated_at": "2026-11-15T06:36:43Z",
+  "version": 1794724609,
+  "updated_at": "2026-11-15T06:36:49Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
-    "com.payboxapp",
-    "il.banks.hub"
+    "com.payboxapp"
   ],
   "allow": [
     "android.googleapis.com",
@@ -31,7 +30,6 @@
     "greenlend.co.il",
     "hopon.co.il",
     "isracard.co.il",
-    "leumi.co.il",
     "maps.googleapis.com",
     "max.co.il",
     "mercantile.co.il",
@@ -39,7 +37,6 @@
     "onesignal.com",
     "onezerobank.com",
     "pagi.co.il",
-    "payboxapp.com",
     "payplus.co.il",
     "res.cloudinary.com",
     "telebank.co.il",
@@ -2925,7 +2922,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "2.0",
-      "updated_at": "2026-11-15T06:36:40Z"
+      "updated_at": "2026-11-15T06:36:46Z"
     }
   },
   "blur": {},
@@ -2943,5 +2940,5 @@
       }
     ]
   },
-  "sig": "XsD1E55y+Xm/aePDiiVlJq0YyWA02hR9G596QQEpkGGmd/xZ913Z9S9IXBFJrSjfUs3j7wl2Tsdc9WFSqr9MTQ=="
+  "sig": "gjJeTTo8m1ZRGTy4rs+a71QHKNgjmSiwBa68egjwMKNWBTA1suOUNATFMiCVF4gInfa3jIH3RjZ5p0fXgOjDBg=="
 }
