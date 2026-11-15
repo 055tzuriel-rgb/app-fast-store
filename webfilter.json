@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794687612,
-  "updated_at": "2026-11-14T20:20:12Z",
+  "version": 1794719203,
+  "updated_at": "2026-11-15T05:06:43Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -222,9 +222,7 @@
         "fibi.co.il",
         "firebaseinstallations.googleapis.com",
         "firebaseio.com",
-        "googleapis.com",
         "greenlend.co.il",
-        "gstatic.com",
         "hopon.co.il",
         "isracard.co.il",
         "max.co.il",
@@ -285,8 +283,10 @@
         "google-analytics.com",
         "google.co.il",
         "google.com",
+        "googleapis.com",
         "grafana-dev.net",
         "grow.link",
+        "gstatic.com",
         "herokuapp.com",
         "hrsn.dev",
         "is-a-fullstack.dev",
@@ -2853,7 +2853,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-14T20:20:11Z"
+      "updated_at": "2026-11-15T05:06:39Z"
     },
     "il.banks.hub": {
       "label": "",
@@ -2921,5 +2921,19 @@
     }
   },
   "blur": {},
-  "sig": "w++oIKUcD65/th0izxJ5Swbg1cT7N/gFqOaOwiZrcaUjpHeZ6C1SAZXDSuXBElUiTMPksntXr+zmH7Tx39u37w=="
+  "screens": {
+    "com.payboxapp": [
+      {
+        "id": "dfbc7aea",
+        "activity": "com.cobox.core.ui.activities.MainActivity",
+        "match": {
+          "ids": [],
+          "texts": []
+        },
+        "action": "block",
+        "label": "MainActivity"
+      }
+    ]
+  },
+  "sig": "WG7i477/FpbAPzvvH7BdSLdR4h1kYjXVWapAlwNRn0uWkJVBfcc8CNkb452qeWtEiNhRTF/00X9HDHNJtyJatw=="
 }
