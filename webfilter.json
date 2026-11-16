@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794850946,
-  "updated_at": "2026-11-16T17:42:26Z",
+  "version": 1794851562,
+  "updated_at": "2026-11-16T17:52:42Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [],
@@ -192,6 +192,7 @@
         "mizrahi-tefahot.co.il",
         "onezerobank.com",
         "pagi.co.il",
+        "payboxapp.com",
         "payplus.co.il",
         "res.cloudinary.com",
         "telebank.co.il",
@@ -269,7 +270,6 @@
         "onelink.me",
         "pages.dev",
         "panel.dev",
-        "payboxapp.com",
         "platter-app.dev",
         "r2.dev",
         "replit.dev",
@@ -2815,7 +2815,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-16T17:42:14Z"
+      "updated_at": "2026-11-16T17:52:37Z"
     },
     "il.banks.hub": {
       "label": "בנקים",
@@ -2912,5 +2912,5 @@
       }
     ]
   },
-  "sig": "81h5B7IyND/8Gv4+dGbrPgV3b7hJM8si3N5vTKXB5uGg1QJg5w01wCNdM+He9a8Ekm0hmVG0cEboJIgMMW6RdA=="
+  "sig": "G2iIuRcDfACYJIDj+Qd9Qb6GV5gZRNY+VSPrA7X2+sTH74O4iJ20COCdmk6Bykw6JO6LOm4pnXwMCx+QDv9/IQ=="
 }
