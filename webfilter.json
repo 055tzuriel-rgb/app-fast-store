@@ -1,49 +1,11 @@
 {
   "schema": 2,
-  "version": 1794850864,
-  "updated_at": "2026-11-16T17:41:04Z",
+  "version": 1794850946,
+  "updated_at": "2026-11-16T17:42:26Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
-  "apps": [
-    "com.payboxapp"
-  ],
-  "allow": [
-    "android.googleapis.com",
-    "api.onesignal.com",
-    "bank-yahav.co.il",
-    "bankhapoalim.co.il",
-    "bankjerusalem.co.il",
-    "bankleumi.co.il",
-    "bankmassad.co.il",
-    "busnearby.co.il",
-    "cal-online.co.il",
-    "discountbank.co.il",
-    "fcm.googleapis.com",
-    "fcmregistrations.googleapis.com",
-    "fibi.co.il",
-    "firebaseinstallations.googleapis.com",
-    "firebaseio.com",
-    "firebaseremoteconfig.googleapis.com",
-    "firestore.googleapis.com",
-    "fonts.googleapis.com",
-    "fonts.gstatic.com",
-    "greenlend.co.il",
-    "hopon.co.il",
-    "isracard.co.il",
-    "maps.googleapis.com",
-    "max.co.il",
-    "mercantile.co.il",
-    "mizrahi-tefahot.co.il",
-    "onesignal.com",
-    "onezerobank.com",
-    "pagi.co.il",
-    "payplus.co.il",
-    "res.cloudinary.com",
-    "telebank.co.il",
-    "whatsapp.com",
-    "whatsapp.net",
-    "www.gstatic.com"
-  ],
+  "apps": [],
+  "allow": [],
   "global": {
     "never_allow": [
       "facebook.com",
@@ -2853,7 +2815,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-16T17:41:01Z"
+      "updated_at": "2026-11-16T17:42:14Z"
     },
     "il.banks.hub": {
       "label": "בנקים",
@@ -2950,5 +2912,5 @@
       }
     ]
   },
-  "sig": "8ed9X4/2Fqta7+221v3tfXVoTkeQOJHnq12w5H/KjHLLmW3Ji25dVkE/KkmZPutS37Oa//pZunnbSDXobNgTrA=="
+  "sig": "81h5B7IyND/8Gv4+dGbrPgV3b7hJM8si3N5vTKXB5uGg1QJg5w01wCNdM+He9a8Ekm0hmVG0cEboJIgMMW6RdA=="
 }
