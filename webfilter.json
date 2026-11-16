@@ -1,11 +1,12 @@
 {
   "schema": 2,
-  "version": 1794866326,
-  "updated_at": "2026-11-16T21:58:46Z",
+  "version": 1794866622,
+  "updated_at": "2026-11-16T22:03:42Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
-    "com.payboxapp"
+    "com.payboxapp",
+    "il.banks.hub"
   ],
   "allow": [
     "0.pn",
@@ -152,6 +153,7 @@
     "lcaron.sc",
     "lcommaaccent.sc",
     "ldot.sc",
+    "leumi.co.il",
     "lslash.sc",
     "m.sc",
     "maps.googleapis.com",
@@ -3493,7 +3495,6 @@
         "leumi.co.il",
         "max.co.il",
         "mercantile.co.il",
-        "mizrahi-tefahot.co.il",
         "onezerobank.com",
         "pagi.co.il",
         "payboxapp.com",
@@ -3504,7 +3505,8 @@
       ],
       "block": [
         "googleapis.com",
-        "gstatic.com"
+        "gstatic.com",
+        "mizrahi-tefahot.co.il"
       ],
       "doubt": [
         "bankhapoalim.biz",
@@ -3539,7 +3541,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "2.0",
-      "updated_at": "2026-11-16T21:58:44Z"
+      "updated_at": "2026-11-16T22:03:39Z"
     }
   },
   "blur": {},
@@ -3565,19 +3567,7 @@
         "action": "block",
         "label": "OnBoardingActivity"
       }
-    ],
-    "il.banks.hub": [
-      {
-        "id": "fa02ceac",
-        "activity": "il.banks.hub.BankActivity",
-        "match": {
-          "ids": [],
-          "texts": []
-        },
-        "action": "blur_normal",
-        "label": "BankActivity"
-      }
     ]
   },
-  "sig": "wBEUSp+MInJzFW2udcR3xL+IGFFw/c3vX64wCQjmUxC1EJ0as0xf8Yvs73xPSbOyZHsKfxED22pj2VXjj7rWeA=="
+  "sig": "9DSzkmy1suBtvPSFLI6k8ohwXfQsseOn/VEHLVXPKk5AxfhArOa0yluVruLIutD4WFiV/aTTJpBFEOOHCFUPHA=="
 }
