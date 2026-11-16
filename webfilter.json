@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794724609,
-  "updated_at": "2026-11-15T06:36:49Z",
+  "version": 1794843558,
+  "updated_at": "2026-11-16T15:39:18Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -2853,7 +2853,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-15T06:34:56Z"
+      "updated_at": "2026-11-16T15:39:16Z"
     },
     "il.banks.hub": {
       "label": "בנקים",
@@ -2937,8 +2937,18 @@
         },
         "action": "block",
         "label": "VoucherCategoriesLobbyActivity"
+      },
+      {
+        "id": "2a5c11d9",
+        "activity": "com.cobox.core.ui.tour.OnBoardingActivity",
+        "match": {
+          "ids": [],
+          "texts": []
+        },
+        "action": "block",
+        "label": "OnBoardingActivity"
       }
     ]
   },
-  "sig": "gjJeTTo8m1ZRGTy4rs+a71QHKNgjmSiwBa68egjwMKNWBTA1suOUNATFMiCVF4gInfa3jIH3RjZ5p0fXgOjDBg=="
+  "sig": "ZP8eiyV2NopmQ8GfWAhzcMocOBlqsqYRdtXEMjDG2BM0gxwzpX6fgooqyicU4cEiZv/zudSi67GWTWHC/8+rJA=="
 }
