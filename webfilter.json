@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794866622,
-  "updated_at": "2026-11-16T22:03:42Z",
+  "version": 1794867635,
+  "updated_at": "2026-11-16T22:20:35Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -38,11 +38,13 @@
     "b.sc",
     "backslash.sc",
     "bank-yahav.co.il",
+    "bankhapoalim.biz",
     "bankhapoalim.co.il",
     "bankjerusalem.co.il",
     "bankleumi.co.il",
     "bankmassad.co.il",
     "bar.sc",
+    "bitpay.co.il",
     "busnearby.co.il",
     "c.sc",
     "cacute.sc",
@@ -51,6 +53,7 @@
     "ccaron.sc",
     "ccedilla.sc",
     "ccircumflex.sc",
+    "cdn.getinsait.com",
     "cdotaccent.sc",
     "cobox.io",
     "colon.tf",
@@ -335,6 +338,7 @@
     "whatsapp.net",
     "wireless-village.org",
     "www.gstatic.com",
+    "www.mizrahi-tefahot.co.il",
     "x.ls",
     "x.sc",
     "xmlsoap.org",
@@ -3479,12 +3483,15 @@
       "catalog_id": "app_1794508612178",
       "allow": [
         "bank-yahav.co.il",
+        "bankhapoalim.biz",
         "bankhapoalim.co.il",
         "bankjerusalem.co.il",
         "bankleumi.co.il",
         "bankmassad.co.il",
+        "bitpay.co.il",
         "busnearby.co.il",
         "cal-online.co.il",
+        "cdn.getinsait.com",
         "discountbank.co.il",
         "fibi.co.il",
         "firebaseinstallations.googleapis.com",
@@ -3495,31 +3502,32 @@
         "leumi.co.il",
         "max.co.il",
         "mercantile.co.il",
+        "mizrahi-tefahot.co.il",
         "onezerobank.com",
         "pagi.co.il",
         "payboxapp.com",
         "res.cloudinary.com",
         "telebank.co.il",
         "whatsapp.com",
-        "whatsapp.net"
+        "whatsapp.net",
+        "www.mizrahi-tefahot.co.il"
       ],
       "block": [
         "googleapis.com",
-        "gstatic.com",
-        "mizrahi-tefahot.co.il"
+        "gstatic.com"
       ],
-      "doubt": [
-        "bankhapoalim.biz",
-        "bitpay.co.il"
-      ],
+      "doubt": [],
       "manual": [
         "bank-yahav.co.il",
+        "bankhapoalim.biz",
         "bankhapoalim.co.il",
         "bankjerusalem.co.il",
         "bankleumi.co.il",
         "bankmassad.co.il",
+        "bitpay.co.il",
         "busnearby.co.il",
         "cal-online.co.il",
+        "cdn.getinsait.com",
         "discountbank.co.il",
         "fibi.co.il",
         "firebaseinstallations.googleapis.com",
@@ -3538,10 +3546,11 @@
         "res.cloudinary.com",
         "telebank.co.il",
         "whatsapp.com",
-        "whatsapp.net"
+        "whatsapp.net",
+        "www.mizrahi-tefahot.co.il"
       ],
       "scanned_version": "2.0",
-      "updated_at": "2026-11-16T22:03:39Z"
+      "updated_at": "2026-11-16T22:20:34Z"
     }
   },
   "blur": {},
@@ -3569,5 +3578,5 @@
       }
     ]
   },
-  "sig": "9DSzkmy1suBtvPSFLI6k8ohwXfQsseOn/VEHLVXPKk5AxfhArOa0yluVruLIutD4WFiV/aTTJpBFEOOHCFUPHA=="
+  "sig": "rB2s8Inihr95sv3remTLRGaeKuxEJ1D8KyIIuLZnS3EylUqy7knZHZTJiaiO0d7hYmysCV4g0XM/dPy0yOlSZg=="
 }
