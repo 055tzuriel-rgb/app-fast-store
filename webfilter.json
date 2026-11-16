@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794843558,
-  "updated_at": "2026-11-16T15:39:18Z",
+  "version": 1794850864,
+  "updated_at": "2026-11-16T17:41:04Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -2853,7 +2853,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "5.7.8",
-      "updated_at": "2026-11-16T15:39:16Z"
+      "updated_at": "2026-11-16T17:41:01Z"
     },
     "il.banks.hub": {
       "label": "בנקים",
@@ -2950,5 +2950,5 @@
       }
     ]
   },
-  "sig": "ZP8eiyV2NopmQ8GfWAhzcMocOBlqsqYRdtXEMjDG2BM0gxwzpX6fgooqyicU4cEiZv/zudSi67GWTWHC/8+rJA=="
+  "sig": "8ed9X4/2Fqta7+221v3tfXVoTkeQOJHnq12w5H/KjHLLmW3Ji25dVkE/KkmZPutS37Oa//pZunnbSDXobNgTrA=="
 }
