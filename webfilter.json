@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794851902,
-  "updated_at": "2026-11-16T17:58:22Z",
+  "version": 1794866326,
+  "updated_at": "2026-11-16T21:58:46Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -3539,7 +3539,7 @@
         "whatsapp.net"
       ],
       "scanned_version": "2.0",
-      "updated_at": "2026-11-15T06:36:46Z"
+      "updated_at": "2026-11-16T21:58:44Z"
     }
   },
   "blur": {},
@@ -3565,7 +3565,19 @@
         "action": "block",
         "label": "OnBoardingActivity"
       }
+    ],
+    "il.banks.hub": [
+      {
+        "id": "fa02ceac",
+        "activity": "il.banks.hub.BankActivity",
+        "match": {
+          "ids": [],
+          "texts": []
+        },
+        "action": "blur_normal",
+        "label": "BankActivity"
+      }
     ]
   },
-  "sig": "MuhTu+LayPxHLIjN07NJ6SsWO+HKpRko+aGe67nQdHIOPL76ztdLhVeku8J2s2/uqX12Ybfq561te7IMwSTTLw=="
+  "sig": "wBEUSp+MInJzFW2udcR3xL+IGFFw/c3vX64wCQjmUxC1EJ0as0xf8Yvs73xPSbOyZHsKfxED22pj2VXjj7rWeA=="
 }
