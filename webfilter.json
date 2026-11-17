@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794867635,
-  "updated_at": "2026-11-16T22:20:35Z",
+  "version": 1794905524,
+  "updated_at": "2026-11-17T08:52:04Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -3578,5 +3578,5 @@
       }
     ]
   },
-  "sig": "rB2s8Inihr95sv3remTLRGaeKuxEJ1D8KyIIuLZnS3EylUqy7knZHZTJiaiO0d7hYmysCV4g0XM/dPy0yOlSZg=="
+  "sig": "R1NtN9hugQxjifol5kirZSxlZ0Y5BIZNJnI9FRWbC4p1MJ0+3FElXsC8/CYpgcz5NxHALdnuNfRN5OSdQyTYUg=="
 }
