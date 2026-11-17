@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794908659,
-  "updated_at": "2026-11-17T09:44:19Z",
+  "version": 1794913096,
+  "updated_at": "2026-11-17T10:58:16Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -8326,10 +8326,12 @@
       }
     ]
   },
-  "blocked_apps": [],
+  "blocked_apps": [
+    "com.google.android.calculator"
+  ],
   "open": [
     "com.payboxapp"
   ],
-  "sig": "bVBacv63TqJMLV43/77rIi049V040Z7KI1t1+joWlpTTAOpvbRFQ5UDnYxHYEoQCbWtFDxa3uhLxpxHQYJjLAw==",
-  "sig2": "6bUMEw2qRztwkukNR07rbftiHgSVEZj7mZHsNJ/WQ2Ta7hA56LVQQumV5C1fNo9NrCqby6Wvbw39+IkQeJRH+A=="
+  "sig": "qj+pWYscp+BmNSooPxbhgTW6pL7TJbseIgEx8gHkF/R47VVYAjFVLUaEAg+56Ff1sx1sx2O/MnwHjN/rN/j2dw==",
+  "sig2": "ybJussn5dJQA1iiEfpkCYY6QvNLIsG59WbDeV6XFtgkBYadkkOPGUpOgIohgMi45nzrBM9qQjEmh3ezg2s+U0Q=="
 }
