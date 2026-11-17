@@ -1,12 +1,11 @@
 {
   "schema": 2,
-  "version": 1794907802,
-  "updated_at": "2026-11-17T09:30:02Z",
+  "version": 1794908659,
+  "updated_at": "2026-11-17T09:44:19Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
-    "com.payboxapp",
-    "il.banks.hub"
+    "com.payboxapp"
   ],
   "allow": [
     "0.pn",
@@ -167,7 +166,6 @@
     "balena-devices.com",
     "bambina.jp",
     "bank-yahav.co.il",
-    "bankhapoalim.biz",
     "bankhapoalim.co.il",
     "bankjerusalem.co.il",
     "bankleumi.co.il",
@@ -207,7 +205,6 @@
     "bigv.io",
     "bir.ru",
     "bitbucket.io",
-    "bitpay.co.il",
     "bitter.jp",
     "biz.ng",
     "bjarkoy.no",
@@ -339,7 +336,6 @@
     "ccedilla.sc",
     "ccircumflex.sc",
     "cdn-edges.net",
-    "cdn.getinsait.com",
     "cdn77-secure.org",
     "cdn77-ssl.net",
     "cdn77-storage.com",
@@ -1269,7 +1265,6 @@
     "len.no",
     "lenug.su",
     "lesund.no",
-    "leumi.co.il",
     "lib.de.us",
     "lib.ms.us",
     "lib.nd.us",
@@ -2353,7 +2348,6 @@
     "v.sc",
     "v.ua",
     "valdaosta.it",
-    "validate.perfdrive.com",
     "vaporcloud.io",
     "velvet.jp",
     "verse.jp",
@@ -2501,7 +2495,6 @@
     "wroc.pl",
     "www.ck",
     "www.gstatic.com",
-    "www.mizrahi-tefahot.co.il",
     "x.ls",
     "x.sc",
     "x0.com",
@@ -8331,25 +8324,12 @@
         "action": "block",
         "label": "OnBoardingActivity"
       }
-    ],
-    "il.banks.hub": [
-      {
-        "id": "d67ced5d",
-        "activity": "il.banks.hub.BankActivity",
-        "match": {
-          "ids": [],
-          "texts": []
-        },
-        "action": "blur_normal",
-        "label": "BankActivity"
-      }
     ]
   },
   "blocked_apps": [],
   "open": [
-    "com.payboxapp",
-    "il.banks.hub"
+    "com.payboxapp"
   ],
-  "sig": "ICaHlJN0HS5AoC48qW7bhY0Xmq0p2zXgHA7phX6+pqzUWpTHbgr8plPEzD6gtcm1BGlatfR+RVctrRt9Xt5eWw==",
-  "sig2": "+g422W82bT499OFKSkW4mKx/axru1NerMenlwAaoU9nNwqszh6xl7O8I9/fEXhqXnNTkkN023XwaID+6/5D/Rg=="
+  "sig": "bVBacv63TqJMLV43/77rIi049V040Z7KI1t1+joWlpTTAOpvbRFQ5UDnYxHYEoQCbWtFDxa3uhLxpxHQYJjLAw==",
+  "sig2": "6bUMEw2qRztwkukNR07rbftiHgSVEZj7mZHsNJ/WQ2Ta7hA56LVQQumV5C1fNo9NrCqby6Wvbw39+IkQeJRH+A=="
 }
