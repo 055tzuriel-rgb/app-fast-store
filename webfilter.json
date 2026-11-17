@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1794907729,
-  "updated_at": "2026-11-17T09:28:49Z",
+  "version": 1794907802,
+  "updated_at": "2026-11-17T09:30:02Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -8350,6 +8350,6 @@
     "com.payboxapp",
     "il.banks.hub"
   ],
-  "sig": "nuNclmqJbbzy/sXpukTmTaotKdvNM1cNSaOXkW67pUyDEYSdkqPsZUdZtJHESyxLCCRTjeteYYwOKHHJRyjXXg==",
-  "sig2": "SjG2Ryj8GC8iTMwK2LUnPrFaN2n1Vthm05yRRW+gLL94ztGBL/qmgQvd9MWv3BPn7jfCEnP6DhGy0/xnQENU2A=="
+  "sig": "ICaHlJN0HS5AoC48qW7bhY0Xmq0p2zXgHA7phX6+pqzUWpTHbgr8plPEzD6gtcm1BGlatfR+RVctrRt9Xt5eWw==",
+  "sig2": "+g422W82bT499OFKSkW4mKx/axru1NerMenlwAaoU9nNwqszh6xl7O8I9/fEXhqXnNTkkN023XwaID+6/5D/Rg=="
 }
