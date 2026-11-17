@@ -1,11 +1,12 @@
 {
   "schema": 2,
-  "version": 1794913792,
-  "updated_at": "2026-11-17T11:09:52Z",
+  "version": 1794934264,
+  "updated_at": "2026-11-17T16:51:04Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
-    "com.payboxapp"
+    "com.payboxapp",
+    "il.banks.hub"
   ],
   "allow": [
     "0.pn",
@@ -166,6 +167,7 @@
     "balena-devices.com",
     "bambina.jp",
     "bank-yahav.co.il",
+    "bankhapoalim.biz",
     "bankhapoalim.co.il",
     "bankjerusalem.co.il",
     "bankleumi.co.il",
@@ -205,6 +207,7 @@
     "bigv.io",
     "bir.ru",
     "bitbucket.io",
+    "bitpay.co.il",
     "bitter.jp",
     "biz.ng",
     "bjarkoy.no",
@@ -336,6 +339,7 @@
     "ccedilla.sc",
     "ccircumflex.sc",
     "cdn-edges.net",
+    "cdn.getinsait.com",
     "cdn77-secure.org",
     "cdn77-ssl.net",
     "cdn77-storage.com",
@@ -1265,6 +1269,7 @@
     "len.no",
     "lenug.su",
     "lesund.no",
+    "leumi.co.il",
     "lib.de.us",
     "lib.ms.us",
     "lib.nd.us",
@@ -2348,6 +2353,7 @@
     "v.sc",
     "v.ua",
     "valdaosta.it",
+    "validate.perfdrive.com",
     "vaporcloud.io",
     "velvet.jp",
     "verse.jp",
@@ -2495,6 +2501,7 @@
     "wroc.pl",
     "www.ck",
     "www.gstatic.com",
+    "www.mizrahi-tefahot.co.il",
     "x.ls",
     "x.sc",
     "x0.com",
@@ -8328,8 +8335,9 @@
   },
   "blocked_apps": [],
   "open": [
-    "com.payboxapp"
+    "com.payboxapp",
+    "il.banks.hub"
   ],
-  "sig": "8klL8gxBserSIATao4c7VAFhd234xOuXs4p4sPF3ezAWOqoAm5kZ8pon/Ghd88/sV7Tfqtd4mTdc1A/dExJF+A==",
-  "sig2": "JH1+D8sHK60K1u0g7I0OSIpXJByK4yGWhCfYk6sQULV5oBFu9T+tKYE1LlYdtboYz07t/GgkaodALRY7sxmhuA=="
+  "sig": "8iw9Hlkgi7hhXcwrs0CEAgCor1N9xBvVLMNoVTWUl9yA7aOEtLWxfrfowDq/KbYPAiloNzWgknUwpctCbGTnQQ==",
+  "sig2": "pY76Bv+4uAVCp6qyhlXj8GgUVbaekSFoWLKWq1IJjYc9IVSuDhHjJf6pKAwHsOI/lbW0ygwC5RsGMFZGMxl1TA=="
 }
