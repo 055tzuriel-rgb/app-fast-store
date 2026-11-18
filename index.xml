@@ -135,4 +135,13 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794508612178.png</icon_url>
     <updated>true</updated>
   </application>
+  <application id="app_1794967318066">
+    <name>דרייב</name>
+    <version>1.0.0</version>
+    <category>מוצרי גוגל</category>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1794967318066-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794967318066.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
