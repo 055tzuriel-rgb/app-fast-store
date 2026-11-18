@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "version": 1795011271,
-  "updated_at": "2026-11-18T14:14:31Z",
+  "version": 1795011450,
+  "updated_at": "2026-11-18T14:17:30Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
@@ -11133,6 +11133,6 @@
     "com.lomdaat.apps.music",
     "com.payboxapp"
   ],
-  "sig": "Tt8aBlwL0u4KF1JyGsEi3h5ooec0AaX5Yc7po9qYV6gng25ddwddNrtmluz+23WX5zjiMHoK1hCNdZYJ3rRaqg==",
-  "sig2": "Ok3OL88gNIFniNIJ2tpb51oIsjXMR7TovSmmz5Q/vu//UzCIg92m8VrII51SziLAuJP/niwmNU0tcVLvkhPpQw=="
+  "sig": "dUk992ulKgxjyjc3hfmewovk1WanRNFVHmzjjlk88Qm7cfihv2bQ7+At5XqbtHh5T7BkoAf6A+r4CECQVLihEQ==",
+  "sig2": "gVuvPlzmKA5DnaFBBscQ4XS4ovL0X+Lp+TlNg/ZCho3tugSa1tGeW4bsqS+ZErTUNjy0ZeaWQgmlVKiplJK4lQ=="
 }
