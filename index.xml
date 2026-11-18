@@ -172,4 +172,13 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794969821981.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="app_1794969949379">
+    <name>דיפסיק צ&apos;אט ai</name>
+    <version>1.0.0</version>
+    <category>AI</category>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1794969949379-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794969949379.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
