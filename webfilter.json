@@ -1,12 +1,11 @@
 {
   "schema": 2,
-  "version": 1794934264,
-  "updated_at": "2026-11-17T16:51:04Z",
+  "version": 1794979625,
+  "updated_at": "2026-11-18T05:27:05Z",
   "updated_by": "Pixel 7a",
   "sync_url": "https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/webfilter.json",
   "apps": [
-    "com.payboxapp",
-    "il.banks.hub"
+    "com.payboxapp"
   ],
   "allow": [
     "0.pn",
@@ -167,7 +166,6 @@
     "balena-devices.com",
     "bambina.jp",
     "bank-yahav.co.il",
-    "bankhapoalim.biz",
     "bankhapoalim.co.il",
     "bankjerusalem.co.il",
     "bankleumi.co.il",
@@ -207,7 +205,6 @@
     "bigv.io",
     "bir.ru",
     "bitbucket.io",
-    "bitpay.co.il",
     "bitter.jp",
     "biz.ng",
     "bjarkoy.no",
@@ -339,7 +336,6 @@
     "ccedilla.sc",
     "ccircumflex.sc",
     "cdn-edges.net",
-    "cdn.getinsait.com",
     "cdn77-secure.org",
     "cdn77-ssl.net",
     "cdn77-storage.com",
@@ -1269,7 +1265,6 @@
     "len.no",
     "lenug.su",
     "lesund.no",
-    "leumi.co.il",
     "lib.de.us",
     "lib.ms.us",
     "lib.nd.us",
@@ -2353,7 +2348,6 @@
     "v.sc",
     "v.ua",
     "valdaosta.it",
-    "validate.perfdrive.com",
     "vaporcloud.io",
     "velvet.jp",
     "verse.jp",
@@ -2501,7 +2495,6 @@
     "wroc.pl",
     "www.ck",
     "www.gstatic.com",
-    "www.mizrahi-tefahot.co.il",
     "x.ls",
     "x.sc",
     "x0.com",
@@ -8199,7 +8192,7 @@
       "updated_at": "2026-11-16T17:58:19Z"
     },
     "il.banks.hub": {
-      "label": "בנקים",
+      "label": "הבנקים",
       "catalog_id": "app_1794508612178",
       "strict": false,
       "allow": [
@@ -8224,6 +8217,7 @@
         "max.co.il",
         "mercantile.co.il",
         "mizrahi-tefahot.co.il",
+        "o.pw",
         "onezerobank.com",
         "pagi.co.il",
         "payboxapp.com",
@@ -8270,7 +8264,9 @@
         "googleapis.com",
         "gstatic.com"
       ],
-      "doubt": [],
+      "doubt": [
+        "o.pw"
+      ],
       "manual": [
         "bank-yahav.co.il",
         "bankhapoalim.biz",
@@ -8305,7 +8301,7 @@
         "www.mizrahi-tefahot.co.il"
       ],
       "scanned_version": "2.0",
-      "updated_at": "2026-11-16T22:20:34Z"
+      "updated_at": "2026-11-18T05:27:04Z"
     }
   },
   "blur": {},
@@ -8335,9 +8331,8 @@
   },
   "blocked_apps": [],
   "open": [
-    "com.payboxapp",
-    "il.banks.hub"
+    "com.payboxapp"
   ],
-  "sig": "8iw9Hlkgi7hhXcwrs0CEAgCor1N9xBvVLMNoVTWUl9yA7aOEtLWxfrfowDq/KbYPAiloNzWgknUwpctCbGTnQQ==",
-  "sig2": "pY76Bv+4uAVCp6qyhlXj8GgUVbaekSFoWLKWq1IJjYc9IVSuDhHjJf6pKAwHsOI/lbW0ygwC5RsGMFZGMxl1TA=="
+  "sig": "G98TYK7HcO1ImSdzR59Uqs3lyJCT0SXIi42neiMxZz4Ivf+D9E1hZcEzOai/SUCKfe1bA+dkCt9qns2qPS2q1g==",
+  "sig2": "hKv9Jmqsh5oY6qa9NHu9FjlXQPSMOvpepv2jkHEXqNa5Y/W5U5CTGIR9Ibf9BeQKE5AJBAgVQrlJeYOKSe9lXg=="
 }
