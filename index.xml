@@ -144,14 +144,4 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794508612178.png</icon_url>
     <updated>true</updated>
   </application>
-  <application id="com.google.android.material.transformation">
-    <name>בנק הפועלים</name>
-    <package>com.google.android.material.transformation</package>
-    <version>1.0.0</version>
-    <category>כללי</category>
-    <description></description>
-    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/1be09bf6e_comideomobilehapoalim_4430.bin</apk_url>
-    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/com.google.android.material.transformation.png</icon_url>
-    <updated>false</updated>
-  </application>
 </store>
