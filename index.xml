@@ -162,4 +162,13 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794968149762.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="app_1794969821981">
+    <name>ג&apos;וזיק-מוזיקה כשרה</name>
+    <version>1.0.0</version>
+    <category>כללי</category>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1794969821981-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794969821981.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
