@@ -163,4 +163,13 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794969821981.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="app_1795100908008">
+    <name>ביט</name>
+    <version>1.0.0</version>
+    <category>פיננסי</category>
+    <description></description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/c6f5dc46b_bit-_6191_apkcube.bin</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1795100908008.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
