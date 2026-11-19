@@ -172,4 +172,14 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794969949379.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="com.adobe.xmp">
+    <name>spspi</name>
+    <package>com.adobe.xmp</package>
+    <version>1.0.0</version>
+    <category>כללי</category>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/com.adobe.xmp-1.0.0.apk</apk_url>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/com.adobe.xmp.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
