@@ -163,4 +163,14 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1794969821981.png</icon_url>
     <updated>false</updated>
   </application>
+  <application id="app_1795448733503">
+    <name>Wallet גוגל תשלומים</name>
+    <version>1.0.0</version>
+    <category>כללי</category>
+    <description></description>
+    <apk_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/repo/app_1795448733503-1.0.0.apks</apk_url>
+    <apk_sha256>49ae63d53b1fc529159afb7cf9200d7927d2c0ba7159ba928cae84966e32e116</apk_sha256>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1795448733503.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
