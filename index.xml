@@ -173,4 +173,14 @@
     <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1795448733503.png</icon_url>
     <updated>true</updated>
   </application>
+  <application id="app_1795731934845">
+    <name>מוביט</name>
+    <version>1.0.0</version>
+    <category>ניווט</category>
+    <description></description>
+    <apk_url>https://base44.app/api/apps/69faefef15ee1efbb12a6fa8/files/mp/public/69faefef15ee1efbb12a6fa8/7c4ce75a9a8703c9bb3baddb4f5d4151_Moovit-Your-Transit-Tracker_520501815_apkcube.apks</apk_url>
+    <apk_sha256>62660c68e0dce56944d65883793156a456903702fc5bd8bdabde8c6158e470f2</apk_sha256>
+    <icon_url>https://raw.githubusercontent.com/055tzuriel-rgb/app-fast-store/main/icons/app_1795731934845.png</icon_url>
+    <updated>false</updated>
+  </application>
 </store>
